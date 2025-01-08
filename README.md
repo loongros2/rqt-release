@@ -1,3 +1,31 @@
+## rqt (jazzy) - 1.6.0-3
+
+The packages in the `rqt` repository were released into the `jazzy` distro by running `/home/z572/gits/loongros2/venv/bin/bloom-release -r jazzy rqt --override-release-repository-push-url git@github.com:loongros2/rqt-release.git` on `Wed, 08 Jan 2025 10:48:51 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+- `rqt_py_common`
+
+Version of package(s) in repository `rqt`:
+
+- upstream repository: https://github.com/ros-visualization/rqt.git
+- release repository: https://github.com/loongros2/rqt-release.git
+- rosdistro version: `1.6.0-2`
+- old version: `1.6.0-2`
+- new version: `1.6.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt (rolling) - 1.8.0-1
 
 The packages in the `rqt` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rqt` on `Wed, 20 Nov 2024 16:43:08 -0000`
